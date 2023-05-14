@@ -61,6 +61,26 @@ const CourseCardContainer = styled.div`
     align-items: center;
     width: fit-content;
   }
+  @media (max-width: 690px) {
+    .course-card-description {
+      p {
+        font-size: 0.9rem;
+      }
+    }
+    .course-card-footer-container {
+      img {
+        width: 1.2rem;
+      }
+      small {
+        font-size: 0.7rem;
+      }
+    }
+    .course-card-title {
+      h5 {
+        font-size: 1rem;
+      }
+    }
+  }
 `;
 
 function CourseCard({

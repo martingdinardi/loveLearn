@@ -39,6 +39,27 @@ const LenguageCardContainer = styled.div`
     flex-direction: column;
     gap: 2rem;
   }
+  .lenguage-card-resp-description,
+  .lenguage-card-resp-title {
+    display: none;
+  }
+  @media (max-width: 690px) {
+    display: inherit;
+    .lenguage-card-description {
+      display: none;
+    }
+    .lenguage-card-resp-description {
+      margin-top: 2rem;
+      display: block;
+    }
+    .lenguage-card-resp-title {
+      display: block;
+      small {
+        font-size: 1.7rem;
+        color: lightgray;
+      }
+    }
+  }
 `;
 
 const LenguageCardContent = styled.div`
@@ -67,7 +88,12 @@ function LenguageCard(props: LenguageCard) {
     <LenguageCardContainer>
       <div className="lenguage-card-image">
         <img src={props.img} width={"100px"} />
+        <div className="lenguage-card-resp-title">
+          <small>{props.number}</small>
+          <h3>{props.title}</h3>
+        </div>
       </div>
+      <p className="lenguage-card-resp-description">{props.description}</p>
       <div className="lenguage-card-header">
         <div className="lenguage-card-description">
           <div>
@@ -80,21 +106,31 @@ function LenguageCard(props: LenguageCard) {
           <h4 style={{ borderColor: props.color }}>Cursos</h4>
           <LenguageCardCourses>
             {props.courses &&
-              props.courses.map(({ img, title, description, author_logo, author, author_web, link }) => {
-                return (
-                  <>
-                    <CourseCard
-                      img={img}
-                      title={title}
-                      description={description}
-                      author_logo={author_logo}
-                      author={author}
-                      author_web={author_web}
-                      link={link}
-                    />
-                  </>
-                );
-              })}
+              props.courses.map(
+                ({
+                  img,
+                  title,
+                  description,
+                  author_logo,
+                  author,
+                  author_web,
+                  link,
+                }) => {
+                  return (
+                    <>
+                      <CourseCard
+                        img={img}
+                        title={title}
+                        description={description}
+                        author_logo={author_logo}
+                        author={author}
+                        author_web={author_web}
+                        link={link}
+                      />
+                    </>
+                  );
+                }
+              )}
           </LenguageCardCourses>
         </LenguageCardContent>
       </div>
