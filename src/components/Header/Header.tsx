@@ -14,12 +14,20 @@ const HeaderText = styled.div`
   h2 {
     margin: 2rem 0;
   }
+  img {
+    width: 120px;
+  }
+  @media (max-width: 690px) {
+    img {
+    width: 60px;
+  }
+  }
 `;
 function Header() {
   return (
     <HeaderContainer>
       <HeaderText>
-        <img src={header_logo} width={"120px"} />
+        <img src={header_logo} />
         <h1>¡Una biblioteca de cursos gratuitos en constante crecimiento!</h1>
         <h2>
           Fortalece tus habilidades en programación, alcanza nuevos logros y

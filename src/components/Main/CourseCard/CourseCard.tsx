@@ -68,17 +68,28 @@ const CourseCardContainer = styled.div`
       }
     }
     .course-card-footer-container {
+      gap: 0.3rem;
+
       img {
         width: 1.2rem;
       }
       small {
         font-size: 0.7rem;
       }
+      a {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
     }
     .course-card-title {
       h5 {
         font-size: 1rem;
       }
+    }
+    .course-card-img {
+      height: inherit;
     }
   }
 `;
