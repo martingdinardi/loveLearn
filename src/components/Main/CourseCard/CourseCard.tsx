@@ -71,7 +71,7 @@ const CourseCardContainer = styled.div`
       gap: 0.3rem;
 
       img {
-        width: 1.2rem;
+        width: 1.8rem;
       }
       small {
         font-size: 0.7rem;

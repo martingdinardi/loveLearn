@@ -14,13 +14,17 @@ const HeaderText = styled.div`
   h2 {
     margin: 2rem 0;
   }
+  h3 {
+    margin: 2rem 0 3rem 0;
+  }
+
   img {
     width: 120px;
   }
   @media (max-width: 690px) {
     img {
-    width: 60px;
-  }
+      width: 60px;
+    }
   }
 `;
 function Header() {
@@ -28,11 +32,17 @@ function Header() {
     <HeaderContainer>
       <HeaderText>
         <img src={header_logo} />
-        <h1>¡Una biblioteca de cursos gratuitos en constante crecimiento!</h1>
+        <h1>
+          ¡Te doy la bienvenida a esta biblioteca de cursos gratuitos en
+          constante crecimiento!
+        </h1>
         <h2>
-          Fortalece tus habilidades en programación, alcanza nuevos logros y
-          sobre todo, disfruta del camino!
+          He seleccionado y agrupado para ti aquellos mentores y cursos
+          gratuitos que me han sido de ayuda en mi desarrollo profesional
+          ¡Espero que sea de utilidad para que fortalezcas tus habilidades en el
+          desarrollo de software y puedas alcanzar todas tus metas!
         </h2>
+        <h3>- Martín</h3>
       </HeaderText>
     </HeaderContainer>
   );

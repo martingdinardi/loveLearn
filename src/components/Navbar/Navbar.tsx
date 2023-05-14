@@ -3,11 +3,20 @@ import logo from "../../assets/logo.svg";
 
 const NavbarContainer = styled.div`
   padding: 2rem;
+  display: flex;
+  justify-content: space-between;
   small {
     color: var(--lightgray);
   }
-  display: flex;
-  justify-content: space-between;
+  .site-author a {
+    font-weight: 700;
+  }
+
+  @media (min-width: 690px) {
+    small {
+      font-size: 1rem;
+    }
+  }
 
   @media (max-width: 690px) {
     flex-direction: column;
@@ -23,7 +32,12 @@ function Navbar() {
         <small>beta</small>
       </div>
       <div className="site-author">
-        <small>Desarrollado por Martín Gamboa Dinardi</small>
+        <small>
+          Desarrollado por{" "}
+          <a href="https://www.linkedin.com/in/martin-gamboa-dinardi/">
+            Martín Gamboa Dinardi
+          </a>
+        </small>
       </div>
     </NavbarContainer>
   );
