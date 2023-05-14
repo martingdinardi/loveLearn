@@ -1,0 +1,305 @@
+[
+  {
+    "id": "01",
+    "title": "HTML5",
+    "img": "../../src/assets/html5.svg",
+    "description": "HTML (HyperText Markup Language) es el lenguaje de marcado utilizado para crear y estructurar el contenido en la web. Imagina una página web como un documento en línea que contiene diferentes partes, como encabezados, párrafos, imágenes y enlaces. HTML es como el 'esqueleto' de la página, ya que define la estructura y el contenido básico de cada parte.",
+    "color": "#e44c24",
+    "courses": [
+      {
+        "id": "01",
+        "title": "Curso de HTML para Principiantes",
+        "description": "Faztweb es un destacado referente en la enseñanza en línea sobre programación y tecnología, es la elección ideal para iniciar nuestro camino de aprendizaje. Su experiencia y conocimientos lo convierten en un guía invaluable.",
+        "author": "Fazt Web",
+        "author_logo": "https://res.cloudinary.com/fazt/image/upload/v1653715093/icons/l4u5qvqf2i34j5dbincb.svg",
+        "author_web": "https://www.faztweb.com",
+        "img": "https://i.ytimg.com/vi/rbuYtrNUxg4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB6UoXalaPnyTkBMX6AwiKgxXa9cg",
+        "link": "https://www.youtube.com/watch?v=rbuYtrNUxg4&t=1s"
+      },
+      {
+        "id": "02",
+        "title": "Fundamentos de HTML",
+        "description": "Tu amigo y docente digital, Jon Mircha, es otro de los grandes referentes de la enseñanza en línea sobre programación y tecnología. Este es uno de los cursos más completos sobre HTML que se encuentra en la web.",
+        "author": "Jon Mircha",
+        "author_logo": "https://jonmircha.com/img/kEnAi.svg",
+        "author_web": "https://jonmircha.com",
+        "img": "https://i.ytimg.com/vi/-oK6zL01fNM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrCK8Lmg_mbIgSdcRC4TaUghISMg",
+        "link": "https://www.youtube.com/watch?v=-oK6zL01fNM"
+      },
+      {
+        "id": "03",
+        "title": "HTML & Coding Introduction – Course for Beginners",
+        "description": "FreeCodeCamp.org es una de las mejores plataforma en línea que ofrece recursos de aprendizaje gratuitos para programación y desarrollo web. Su objetivo principal es proporcionar educación accesible y de alta calidad a cualquier persona interesada en aprender a programar tecnología. En este caso, nos presentan un excelente curso de HTML impartido por Ania Kubów, una destacada experta en la enseñanza del idioma angloparlante.",
+        "author": "FreeCodeCamp.org",
+        "author_logo": "https://yt3.ggpht.com/ytc/AGIKgqMl9TL4OpwS8Zc5jHrNnfO01f_Wbovye9mQzfp36Q=s88-c-k-c0x00ffffff-no-rj",
+        "author_web": "https://www.freecodecamp.org",
+        "img": "https://i.ytimg.com/vi/GDGejH3SDNQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCPu5cPnQgSLiaIf4sxtqqml1Dn2g",
+        "link": "https://www.youtube.com/watch?v=GDGejH3SDNQ"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "CSS3",
+    "img": "../../src/assets/css.svg",
+    "description": "CSS (Cascading Style Sheets), se utiliza para controlar el diseño, la apariencia y el formato de los elementos HTML en una página web. Permite definir reglas que especifican cómo se deben mostrar los elementos, incluyendo aspectos como colores, fuentes, márgenes, tamaños, posicionamiento y efectos visuales.",
+    "color": "#1474b4",
+    "courses": [
+      {
+        "id": "01",
+        "title": "Aprende CSS ahora! curso completo GRATIS desde cero",
+        "description": "Nicolas Schurmann es uno de los grandes creadores de contenidos sobre tecnología en YouTube. Bajo su canal HolaMundo nos presenta tópicos del día a día del programador, de tendencias actuales, cursos, entrevistas, y más. Sin duda un canal para visitar todos los días, así como también este curso gratuito de CSS para iniciarse en dicho lenguaje.",
+        "author": "HolaMundo",
+        "author_logo": "https://yt3.ggpht.com/Z69fhRL9_OaXsDz-XsCUe2sGIqU7G1F5Mwl0PwlBsx_ll13K0nLb47q7_RMen7NHvzMVDgd2=s88-c-k-c0x00ffffff-no-rj",
+        "author_web": "https://holamundo.io",
+        "img": "https://i.ytimg.com/vi/wZniZEbPAzk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD-khOYBBZZKhvKyhCmODIAYJAPxw",
+        "link": "https://www.youtube.com/watch?v=wZniZEbPAzk"
+      },
+      {
+        "id": "02",
+        "title": "Fundamentos de CSS",
+        "description": "Segunda parte del curso de HTML & CSS de Jon Mircha. Un curso súper completo sobre CSS con la posibilidad de seguir profundizando con 3 partes con las que cuenta el curso. Si quieres ser un experto en CSS este es un curso fundamental para ello.",
+        "author": "Jon Mircha",
+        "author_logo": "https://jonmircha.com/img/kEnAi.svg",
+        "author_web": "https://jonmircha.com",
+        "img": "https://i.ytimg.com/vi/K3xmRF8ab1o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLADnhbYkhujnrSuW8mwHh2Uur8ZgA",
+        "link": "https://www.youtube.com/watch?v=K3xmRF8ab1o"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "title": "Javascript",
+    "img": "../../src/assets/javascript.svg",
+    "description": "JavaScript es un lenguaje de programación que se utiliza para hacer que los sitios web sean interactivos y dinámicos. Con JavaScript puedes agregar funciones a tu página web, como mostrar y ocultar elementos, validar formularios y hacer que los botones realicen acciones específicas cuando se hace clic en ellos. Es un lenguaje flexible y potente que te permite controlar y manipular el contenido de tu página web. Su uso tanto en el frontend como en el backend lo hacen hoy un lenguaje muy demandado.",
+    "color": "#d4bc1c",
+    "courses": [
+      {
+        "id": "01",
+        "title": "Curso introductorio HTML, CSS & Javascript On demand",
+        "description": "Hack Academy es una institución educativa uruguaya de gran renombre en el sector, cuya misión es insertar rápidamente profesionales en el mercado laboral. En este curso Introductorio de Front-End que nos presentan aprenderás las herramientas necesarias para crear sitios web utilizando HTML, CSS y JavaScript. Una excelente oportunidad para aprender este nuevo lenguaje, repasando los conceptos aprendidos también en las 2 seccionas anteriores.",
+        "author": "Hack Academy",
+        "author_logo": "https://yt3.ggpht.com/9hhuQcYv4t69lC7LEc8t7W8fth29PZZPlddUGZCNPa5TrNO3rPfJz8qObQbbOr6yvmF-dPgizA=s176-c-k-c0x00ffffff-no-rj-mo",
+        "author_web": "https://ha.dev",
+        "img": "https://ha.dev/img/social-media/hackacademy_ogimage_1200x630_v2.png",
+        "link": "https://plataforma.ha.dev/order?ct=d9030fa4-734b-4d19-9977-29bf4b825ae4"
+      },
+      {
+        "id": "02",
+        "title": "Curso de Javascript para Principiantes",
+        "description": "Seguimos con un nuevo curso de FaztWeb donde te iniciarás en el conocimiento de Javascript. La excelente capacidad para enseñar que tiene Fazt, hará que incorpores de forma rápida y amigable los nuevos conocimientos, haciendo foco a su vez en la práctica, algo fundamental para aprender este lenguaje de programación.",
+        "author": "Fazt Web",
+        "author_logo": "https://res.cloudinary.com/fazt/image/upload/v1653715093/icons/l4u5qvqf2i34j5dbincb.svg",
+        "author_web": "https://www.faztweb.com",
+        "img": "https://i.ytimg.com/vi/RqQ1d1qEWlE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2Q_paWuTnD5gveFjo6605u6pPNg",
+        "link": "https://www.youtube.com/watch?v=RqQ1d1qEWlE"
+      },
+      {
+        "id": "03",
+        "title": "Curso de programación con Javascript, gratis desde cero",
+        "description": "Carlos Azaustre es otro de los referentes de la educación online sobre programación, el cual ha sido y es inspiración para la aparición de nuevos profesores y creadores de contenido en el área. En su sitio web nos brinda una imperdible sección de videos acerca de este lenguaje y en YouTube, contamos con este curso de 2hs altamente recomendable.",
+        "author": "Carlos Azaustre",
+        "author_logo": "https://yt3.ggpht.com/UokPjZ3XpJ_BapTR2_cGtQ6uWb8VzBob5aI8dnjXuLPMHn4HIoQFTJTBB5uxILpupryljgJM=s176-c-k-c0x00ffffff-no-rj-mo",
+        "author_web": "https://carlosazaustre.es",
+        "img": "https://i.ytimg.com/vi/S9ojNaeC1RI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCeBVpBnP_y444pqBwgtLTjdryuRw",
+        "link": "https://www.youtube.com/watch?v=S9ojNaeC1RI"
+      },
+      {
+        "id": "04",
+        "title": "Curso de Javascript",
+        "description": "Otro excelente curso este este, nuevamente de Jon Mircha, esta vez sobre Javascript. Cuenta con un temario de los más completos tanto teórico como práctico, y sin dudas, luego de finalizada su playlist, dominarás totalmente este lenguaje de programación.",
+        "author": "Jon Mircha",
+        "author_logo": "https://jonmircha.com/img/kEnAi.svg",
+        "author_web": "https://jonmircha.com",
+        "img": "https://i.ytimg.com/vi/2SetvwBV-SU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBeOLlfbqb_vm5Do9oenY5Y0AELBw",
+        "link": "https://www.youtube.com/watch?v=2SetvwBV-SU"
+      },
+      {
+        "id": "05",
+        "title": "Curso de Javascript | Completo, Práctico y desde Cero",
+        "description": "FalconMasters es otro referente de contenido enfocado al desarrollo web, tanto en YouTube como en Udemy. Cuenta con un sin fin de cursos y tutoriales sobre las tecnologías más utilizadas y demandadas de la web. En este curso súper completo, de más de 14hs, aprenderás Javascript desde cero partiendo desde lo más básico hasta comprender conceptos más complejos y modernos del lenguaje.",
+        "author": "FalconMasters",
+        "author_logo": "https://yt3.ggpht.com/ytc/AGIKgqMSpqpZVn-TGZerYSVeuzhBqjNLU8f9_XYVMfOP=s68-c-k-c0x00ffffff-no-rj",
+        "author_web": "http://www.falconmasters.com",
+        "img": "https://i.ytimg.com/vi/Eh-s-n_6zNQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBINSxXOGT24qRsXC52kj2M50KHVQ",
+        "link": "https://www.youtube.com/watch?v=Eh-s-n_6zNQ"
+      },
+      {
+        "id": "06",
+        "title": "Aprende JavaScript - Curso Completo desde Cero",
+        "description": "De parte de FreeCodeCamp.org, tenemos este curso con más de 9hs de duración, donde aprenderás todo lo necesario para comenzar a trabajar con Javascript, así como también prácticas modernas del lenguaje que se usan en la actualidad. El curso es dictado por Estefania Cassingena, programadora referente en el área, escritora y creadora de contenido para freeCodeCamp en Español.",
+        "author": "FreeCodeCamp.org",
+        "author_logo": "https://yt3.ggpht.com/ytc/AGIKgqMl9TL4OpwS8Zc5jHrNnfO01f_Wbovye9mQzfp36Q=s88-c-k-c0x00ffffff-no-rj",
+        "author_web": "https://www.freecodecamp.org",
+        "img": "https://i.ytimg.com/vi/ivdTnPl1ND0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBc16Il-YJmnPIOKejB9Esj7KB95w",
+        "link": "https://www.youtube.com/watch?v=ivdTnPl1ND0"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "title": "Typescript",
+    "img": "../../src/assets/typescript.svg",
+    "description": "TypeScript es un lenguaje de programación creado por Microsoft, el cual se basa en JavaScript con la características de un tipado fuerte. Los tipos son como etiquetas que se le pueden poner a las variables, funciones y otras partes del código para indicar qué tipo de información pueden contener, por ejemplo number, string, boolean, etc. Esto ayuda a detectar posibles errores durante el desarrollo facilitando el mantenimiento de aplicaciones a gran escala.",
+    "color": "#1c8cd4",
+    "courses": [
+      {
+        "id": "01",
+        "title": "Aprende TypeScript ahora! curso intensivo",
+        "description": "En este curso de Hola Mundo con Nicolas Schurmann aprenderás todo lo necesario de forma intensiva para dominar este lenguaje de programación. Typescript es fundamental para ir con ventaja a la hora de una búsqueda laboral, ya que es muy demandado y usado por las empresas en la actualidad.",
+        "author": "HolaMundo",
+        "author_logo": "https://yt3.ggpht.com/Z69fhRL9_OaXsDz-XsCUe2sGIqU7G1F5Mwl0PwlBsx_ll13K0nLb47q7_RMen7NHvzMVDgd2=s88-c-k-c0x00ffffff-no-rj",
+        "author_web": "https://holamundo.io",
+        "img": "https://i.ytimg.com/vi/-xDZwb-PY0M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA68bjXGzQqwgUSQBx3HiEXelbZKw",
+        "link": "https://www.youtube.com/watch?v=-xDZwb-PY0M&t=2s"
+      },
+      {
+        "id": "02",
+        "title": "APRENDE TYPESCRIPT desde cero con este curso OFICIAL de MICROSOFT",
+        "description": "Midudev es un referente en YouTube y sobre todo en Twitch enseñando desarrollo web. Cuenta con un montón de lives y cursos donde ayuda a consolidar conocimientos, aprender nuevos, desarollar aplicaciones, mejorar tu curriculum y mucho, mucho más. Adjuntamos este curso de Typescript donde te enseñará Typescript siguiendo el curso oficial de Microsoft. Imperdible todo el contenido que tiene en sus canales y en su web!",
+        "author": "Midudev",
+        "author_logo": "https://yt3.googleusercontent.com/ytc/AGIKgqNuOVoLg7EEQyI53wupnDWX3FazpielMxMzxAHFgw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "author_web": "https://midu.dev",
+        "img": "https://i.ytimg.com/vi/YKclM8IxkfI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBslx2uP-HPlJfNrnq8AXTJGmGJFA",
+        "link": "https://www.youtube.com/watch?v=YKclM8IxkfI&t=3525s"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "React",
+    "img": "../../src/assets/react.svg",
+    "description": "ReactJS es una biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario interactivas y eficientes. Desarrollada por Facebook, ReactJS se enfoca en la construcción de componentes reutilizables que permiten crear interfaces dinámicas y rápidas. Con su enfoque basado en componentes y su capacidad de renderizado eficiente, ReactJS se ha vuelto muy popular y demandado en el mercado. Además, su flexibilidad para crear aplicaciones escalabes y su amplia comunidad de soporte hacen de ReactJS una opción poderosa para el desarrollo de interfaces de usuario.",
+    "color": "#04d4fc",
+    "courses": [
+      {
+        "id": "01",
+        "title": "React Course: Beginner's Tutorial for the React JavaScript Library [2022]",
+        "description": "Considero este el mejor curso gratuito para inicarse en React con el cual en lo personal me he topado. Con casi 12 horas de duración, es un curso súper completo donde aprenderás haciendo. La simplicidad para explicar temas complejos del profesor Bob Ziroll hace este curso super amigable, y como brecha de oro cuenta con 8 proyectos reales que podrás agregar a tu curriculum o portfolio personal.",
+        "author": "FreeCodeCamp.org",
+        "author_logo": "https://yt3.ggpht.com/ytc/AGIKgqMl9TL4OpwS8Zc5jHrNnfO01f_Wbovye9mQzfp36Q=s88-c-k-c0x00ffffff-no-rj",
+        "author_web": "https://www.freecodecamp.org",
+        "img": "https://i.ytimg.com/vi/bMknfKXIFA8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCWNj8Uv8FLV0DCos4-blaFb4TnXA",
+        "link": "https://www.youtube.com/watch?v=bMknfKXIFA8"
+      },
+      {
+        "id": "02",
+        "title": "Curso de Reactjs desde Cero para principiantes 2022",
+        "description": "Si hablamos de React FaztWeb no puede faltar. Fazt cuenta con muchísimo contenido sobre esta librería, desde cursos, material de interés, hasta desarrollo de proyectos donde ensambla React con otras tecnologías para crear aplicaciones completas y robustas. En este caso presento su excelente curso para prinicipantes de casi 5 horas de duración, y sugiero visitar su sitio web personal para seguir explorando su contenido.",
+        "author": "Fazt Web",
+        "author_logo": "https://res.cloudinary.com/fazt/image/upload/v1653715093/icons/l4u5qvqf2i34j5dbincb.svg",
+        "author_web": "https://www.faztweb.com",
+        "img": "https://i.ytimg.com/vi/rLoWMU4L_qE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB5v5DQW1Q6eVV1ZI3YtHHPFGfx0w",
+        "link": "https://www.youtube.com/watch?v=rLoWMU4L_qE"
+      },
+      {
+        "id": "03",
+        "title": "Curso de React [2023]: De cero hasta crear tus primeros componentes con estado",
+        "description": "Siguiendo la misma línea, otro referente primordial para aprender React es Midudev. Entre sus cursos y lives se encuentran un sin fin de aplicaciones, tutoriales, inclusive un bootcamp dedicado enteramente a este lenguaje de progrmación. En este caso, para iniciar en su contenido de React, adjuntamos este curso del 2023 que te permitirá alcanzar las bases de forma sólida.",
+        "author": "Midudev",
+        "author_logo": "https://yt3.googleusercontent.com/ytc/AGIKgqNuOVoLg7EEQyI53wupnDWX3FazpielMxMzxAHFgw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "author_web": "https://midu.dev",
+        "img": "https://i.ytimg.com/vi/7iobxzd_2wY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDW8q9GbpEWt9oLJgTJcZLJtp0Riw",
+        "link": "https://www.youtube.com/watch?v=7iobxzd_2wY"
+      },
+      {
+        "id": "04",
+        "title": "Curso de React JS",
+        "description": "Nuevamente de la mano de Jon Mircha, una playlist de 108 videos sobre React, la cual sigue actualizando constantemente. En este curso comenzarás desde lo más básico e irás incorporando conocimientos hasta desarrollar aplicaciones completas tales como un carrito de compras, adquiriendo a su vez conocimientos de temas complejos como por ejemplo Redux. Un excelente curso que finaliza con la subida a producción de dicha aplicación ",
+        "author": "Jon Mircha",
+        "author_logo": "https://jonmircha.com/img/kEnAi.svg",
+        "author_web": "https://jonmircha.com",
+        "img": "https://i.ytimg.com/vi/MPLN1ahXgcs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfYAZYhMDixmSOgRJmixAUL3yukA",
+        "link": "https://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk"
+      },
+      {
+        "id": "05",
+        "title": "REACT + TYPESCRIPT: Creando un proyecto desde cero y paso a paso (Tutorial en español)",
+        "description": "En este live de Midudev aprenderás a utilizar React junto a Typescript. Un combo potente y de obligatorio aprendizaje para desempeñarte en tu vida laboral como desarrollador de software. Parte del imperdible FullStack Bootcamp de JavaScript de Midudev que también te recomendamos visitar.",
+        "author": "Midudev",
+        "author_logo": "https://yt3.googleusercontent.com/ytc/AGIKgqNuOVoLg7EEQyI53wupnDWX3FazpielMxMzxAHFgw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "author_web": "https://midu.dev",
+        "img": "https://i.ytimg.com/vi/15VKbky2gB4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCisSh88OvcWtwTv1Lerbf66QEsZg",
+        "link": "https://www.youtube.com/watch?v=15VKbky2gB4"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Node",
+    "img": "../../src/assets/nodejs.svg",
+    "description": "Node.js es un entorno de tiempo de ejecución de código abierto basado en el motor de JavaScript V8 de Google. Permite ejecutar JavaScript en el servidor, lo que significa que podemos desarrollar el backend usando Node. A diferencia de JavaScript en el navegador, Node.js nos brinda acceso a características adicionales y funcionalidades del sistema operativo, como el sistema de archivos, redes, bases de datos y más. Es altamente demandado en el mercado y suele usarse junto a React para desarrollar aplciaciones eficientes, escalables y de alto rendimiento. Su framework, Express permite crear rápidamente aplicaciones web y facilita tareas comunes como el manejo de rutas y solicitudes. Es ampliamente utilizado y proporciona una forma sencilla de construir servidores web en Node.js.",
+    "color": "#90cc4c",
+    "courses": [
+      {
+        "id": "01",
+        "title": "Nodejs Curso Práctico desde Cero (Javascript en el Backend)",
+        "description": "Un excelente curso de Node.js enfocado en desarrolladores web Frontend principiantes que ya conocen Javascript y HTML, y ahora quieren empezar con su primer lenguaje de backend. Luego de terminar este curso, contarás con bases y conocimientos sólidos para desarrollar backend en este poderoso lenguaje. ",
+        "author": "Fazt Web",
+        "author_logo": "https://res.cloudinary.com/fazt/image/upload/v1653715093/icons/l4u5qvqf2i34j5dbincb.svg",
+        "author_web": "https://www.faztweb.com",
+        "img": "https://i.ytimg.com/vi/i3OdKwuBjeM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiWh343aZ2cLb3u70Bn3oLsknzXw",
+        "link": "https://www.youtube.com/watch?v=i3OdKwuBjeM"
+      },
+      {
+        "id": "02",
+        "title": "Express Framework de Nodejs, Curso para principiantes (Javascript en el backend)",
+        "description": "La continuación del curso anterior de FaztWeb. En este caso, profundizando en Express, el poderoso framework de Node.js altamente usado en el mercado. Un framework fundamental y necesario para poder construir servidores de forma sencilla, rápida y eficiente.",
+        "author": "Fazt Web",
+        "author_logo": "https://res.cloudinary.com/fazt/image/upload/v1653715093/icons/l4u5qvqf2i34j5dbincb.svg",
+        "author_web": "https://www.faztweb.com",
+        "img": "https://i.ytimg.com/vi/JmJ1WUoUIK4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnxREwNC8vWF4iwWJxYLOuJoiWDA",
+        "link": "https://www.youtube.com/watch?v=JmJ1WUoUIK4"
+      },
+      {
+        "id": "03",
+        "title": "Aprende Node.js y Express - Curso desde Cero",
+        "description": "Como no podía ser de otra manera, FreeCodeCamp también cuenta con excelentes cursos de Node.js. En este curso en español impartido por la profesora Estefania Cassingena, aprenderás los conceptos básicos de desarrollo web back-end, JavaScript asíncrono, npm, módulos de Node.js, JSON, HTTP y mucho más.",
+        "author": "FreeCodeCamp.org",
+        "author_logo": "https://yt3.ggpht.com/ytc/AGIKgqMl9TL4OpwS8Zc5jHrNnfO01f_Wbovye9mQzfp36Q=s88-c-k-c0x00ffffff-no-rj",
+        "author_web": "https://www.freecodecamp.org",
+        "img": "https://i.ytimg.com/vi/1hpc70_OoAg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBMMuMSJWETvdgA0l1mZufcDOTa7g",
+        "link": "https://www.youtube.com/watch?v=1hpc70_OoAg&t=12s"
+      },
+      {
+        "id": "04",
+        "title": "Node.js Fundamentos, paso a paso",
+        "description": "Carlos Azaustre nos trae esta playlist de videos totalmente enfocados en Node.js donde podrás aprender todos los aspectos y fundamentos básicos para poder dominar este lenguaje. Un curso de la mano de uno de los profesores referentes de la web.",
+        "author": "Carlos Azaustre",
+        "author_logo": "https://yt3.ggpht.com/UokPjZ3XpJ_BapTR2_cGtQ6uWb8VzBob5aI8dnjXuLPMHn4HIoQFTJTBB5uxILpupryljgJM=s176-c-k-c0x00ffffff-no-rj-mo",
+        "author_web": "https://carlosazaustre.es",
+        "img": "https://i.ytimg.com/vi/zBdojhZ2_Qg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC2IsarAJYOgvtc5sg7EbBWmfV7tw",
+        "link": "https://www.youtube.com/watch?v=zBdojhZ2_Qg&list=PLUdlARNXMVkk7E88zOrphPyGdS50Tadlr"
+      },
+      {
+        "id": "05",
+        "title": "Curso: Node.js + Express + MongoDB + JWT + API REST",
+        "description": "Bluuweb es otro de los grandes canales que podemos encontrar sobre programación en YouTube y también en Udemy. Una playlist fácil de seguir por la calidad con la que enseña el profesor y con un contenido potente sobre Node.js, llegando a ver Json Web Tokens, base de datos y más.",
+        "author": "Bluuweb",
+        "author_logo": "https://yt3.ggpht.com/ytc/AGIKgqMKGkoLpYXLZ8ZJSQOpTJc5b2EiOlxKCT7IQb5JZg=s68-c-k-c0x00ffffff-no-rj",
+        "author_web": "https://bluuweb.github.io/",
+        "img": "https://i.ytimg.com/vi/mG4U9t5nWG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCt0o9RefS-Jr1BEUVtoq3U-OAtA",
+        "link": "https://www.youtube.com/watch?v=mG4U9t5nWG8&list=PLPl81lqbj-4IEnmCXEJeEXPepr8gWtsl6"
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "title": "Git & GitHub",
+    "img": "../../src/assets/git.svg",
+    "description": "Git es un sistema de control de versiones distribuido que permite gestionar el seguimiento y control de cambios en el código fuente de un proyecto. Proporciona un historial detallado de todos los cambios realizados, lo que facilita el trabajo en equipo, la colaboración y la reversión de cambios si es necesario. GitHub, por otro lado, es una plataforma basada en la nube que utiliza Git como su sistema de control de versiones subyacente. Permite alojar y compartir repositorios de Git de manera centralizada, lo que facilita la colaboración entre desarrolladores y equipos. Dos imprescindibles en el mundo laboral.",
+    "color": "#ec543c",
+    "courses": [
+      {
+        "id": "01",
+        "title": "Curso de GIT y GITHUB desde CERO para PRINCIPIANTES",
+        "description": "Otro de los grandes creadores de contenido y referentes del aprendizaje sobre el desarrollo de software es MoureDev. Aparte del excelente contenido que tiene en YouTube y en Twitch, ha lanzado recientemente su nuevo libro sobre Git y GitHub desde cero. Nadie mejor para brindarnos los conocimientos sobre estas dos potentes herramientas.",
+        "author": "MoureDev",
+        "author_logo": "https://yt3.googleusercontent.com/ytc/AGIKgqPuCCPUYy9g-fTDCv-sTQH497C8LSztiyxcC712zA=s176-c-k-c0x00ffffff-no-rj",
+        "author_web": "https://mouredev.com/",
+        "img": "https://i.ytimg.com/vi/3GymExBkKjE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCUb4rEmYj6lS17GfVI_Gdh1-fccQ",
+        "link": "https://www.youtube.com/watch?v=3GymExBkKjE&t=11s"
+      }
+    ]
+  }
+]
