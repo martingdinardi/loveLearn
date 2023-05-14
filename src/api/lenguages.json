@@ -2,7 +2,7 @@
   {
     "id": "01",
     "title": "HTML5",
-    "img": "../../src/assets/html5.svg",
+    "img": "https://www.svgrepo.com/show/349402/html5.svg",
     "description": "HTML (HyperText Markup Language) es el lenguaje de marcado utilizado para crear y estructurar el contenido en la web. Imagina una página web como un documento en línea que contiene diferentes partes, como encabezados, párrafos, imágenes y enlaces. HTML es como el 'esqueleto' de la página, ya que define la estructura y el contenido básico de cada parte.",
     "color": "#e44c24",
     "courses": [
@@ -41,7 +41,7 @@
   {
     "id": "02",
     "title": "CSS3",
-    "img": "../../src/assets/css.svg",
+    "img": "https://www.svgrepo.com/show/452185/css-3.svg",
     "description": "CSS (Cascading Style Sheets), se utiliza para controlar el diseño, la apariencia y el formato de los elementos HTML en una página web. Permite definir reglas que especifican cómo se deben mostrar los elementos, incluyendo aspectos como colores, fuentes, márgenes, tamaños, posicionamiento y efectos visuales.",
     "color": "#1474b4",
     "courses": [
@@ -70,7 +70,7 @@
   {
     "id": "03",
     "title": "Javascript",
-    "img": "../../src/assets/javascript.svg",
+    "img": "https://www.svgrepo.com/show/353925/javascript.svg",
     "description": "JavaScript es un lenguaje de programación que se utiliza para hacer que los sitios web sean interactivos y dinámicos. Con JavaScript puedes agregar funciones a tu página web, como mostrar y ocultar elementos, validar formularios y hacer que los botones realicen acciones específicas cuando se hace clic en ellos. Es un lenguaje flexible y potente que te permite controlar y manipular el contenido de tu página web. Su uso tanto en el frontend como en el backend lo hacen hoy un lenguaje muy demandado.",
     "color": "#d4bc1c",
     "courses": [
@@ -139,7 +139,7 @@
   {
     "id": "04",
     "title": "Typescript",
-    "img": "../../src/assets/typescript.svg",
+    "img": "https://www.svgrepo.com/show/303600/typescript-logo.svg",
     "description": "TypeScript es un lenguaje de programación creado por Microsoft, el cual se basa en JavaScript con la características de un tipado fuerte. Los tipos son como etiquetas que se le pueden poner a las variables, funciones y otras partes del código para indicar qué tipo de información pueden contener, por ejemplo number, string, boolean, etc. Esto ayuda a detectar posibles errores durante el desarrollo facilitando el mantenimiento de aplicaciones a gran escala.",
     "color": "#1c8cd4",
     "courses": [
@@ -168,7 +168,7 @@
   {
     "id": "05",
     "title": "React",
-    "img": "../../src/assets/react.svg",
+    "img": "https://www.svgrepo.com/show/452092/react.svg",
     "description": "ReactJS es una biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario interactivas y eficientes. Desarrollada por Facebook, ReactJS se enfoca en la construcción de componentes reutilizables que permiten crear interfaces dinámicas y rápidas. Con su enfoque basado en componentes y su capacidad de renderizado eficiente, ReactJS se ha vuelto muy popular y demandado en el mercado. Además, su flexibilidad para crear aplicaciones escalabes y su amplia comunidad de soporte hacen de ReactJS una opción poderosa para el desarrollo de interfaces de usuario.",
     "color": "#04d4fc",
     "courses": [
@@ -227,7 +227,7 @@
   {
     "id": "06",
     "title": "Node",
-    "img": "../../src/assets/nodejs.svg",
+    "img": "https://www.svgrepo.com/show/452075/node-js.svg",
     "description": "Node.js es un entorno de tiempo de ejecución de código abierto basado en el motor de JavaScript V8 de Google. Permite ejecutar JavaScript en el servidor, lo que significa que podemos desarrollar el backend usando Node. A diferencia de JavaScript en el navegador, Node.js nos brinda acceso a características adicionales y funcionalidades del sistema operativo, como el sistema de archivos, redes, bases de datos y más. Es altamente demandado en el mercado y suele usarse junto a React para desarrollar aplciaciones eficientes, escalables y de alto rendimiento. Su framework, Express permite crear rápidamente aplicaciones web y facilita tareas comunes como el manejo de rutas y solicitudes. Es ampliamente utilizado y proporciona una forma sencilla de construir servidores web en Node.js.",
     "color": "#90cc4c",
     "courses": [
@@ -286,7 +286,7 @@
   {
     "id": "07",
     "title": "Git & GitHub",
-    "img": "../../src/assets/git.svg",
+    "img": "https://www.svgrepo.com/show/452210/git.svg",
     "description": "Git es un sistema de control de versiones distribuido que permite gestionar el seguimiento y control de cambios en el código fuente de un proyecto. Proporciona un historial detallado de todos los cambios realizados, lo que facilita el trabajo en equipo, la colaboración y la reversión de cambios si es necesario. GitHub, por otro lado, es una plataforma basada en la nube que utiliza Git como su sistema de control de versiones subyacente. Permite alojar y compartir repositorios de Git de manera centralizada, lo que facilita la colaboración entre desarrolladores y equipos. Dos imprescindibles en el mundo laboral.",
     "color": "#ec543c",
     "courses": [
