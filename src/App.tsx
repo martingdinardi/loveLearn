@@ -1,8 +1,7 @@
 import { styled } from "styled-components";
 import Navbar from "./components/Navbar/Navbar";
 import Header from "./components/Header/Header";
-import CourseCard from "./components/CourseCard/CourseCard";
-
+import Main from "./components/Main/Main";
 const AppContainer = styled.div`
   margin: auto;
   max-width: 95rem;
@@ -15,7 +14,7 @@ function App() {
       <Navbar />
       <AppContainer>
         <Header />
-        <CourseCard />
+        <Main />
       </AppContainer>
     </>
   );
