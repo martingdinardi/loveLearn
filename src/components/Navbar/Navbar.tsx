@@ -8,6 +8,11 @@ const NavbarContainer = styled.div`
   }
   display: flex;
   justify-content: space-between;
+
+  @media (max-width: 690px) {
+    flex-direction: column;
+    gap: 0.6rem;
+  }
 `;
 
 function Navbar() {
